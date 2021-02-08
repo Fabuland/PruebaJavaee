@@ -36,5 +36,7 @@ public class Servlet extends HttpServlet {
         }
         response.getWriter().append("<img src=\"images/payara-logo.jpg\" />");
     }
+    
+    //ESTO ES UN CAMBIO
 
 }
